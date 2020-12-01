@@ -17,3 +17,13 @@ image:/img_readBook/见识_02.png[]
 [options="autowidth"]  自动列宽
 
 [cols="1,2a"]   两个单元格1:2比例宽度
+
+[%hardbreaks]  下面的在编辑器中直接换行, 直接生效, 而不用在后面加 "+" 号
+行1
+行2
+行3
+
+
+
+
+
